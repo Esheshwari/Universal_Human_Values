@@ -1,0 +1,50 @@
+\documentclass[10pt,landscape]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=0.3in]{geometry}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{tabularx} % Better alignment and width control
+\usepackage{array}
+
+\title{Activity 4: CSE Student High-Performance Weekly Plan (IST)}
+\date{}
+
+\begin{document}
+
+\maketitle
+\thispagestyle{empty}
+
+\noindent
+\renewcommand{\arraystretch}{1.6}
+\begin{tabularx}{\textwidth}{|>{\centering\arraybackslash\bfseries}m{2.2cm}|*{7}{>{\centering\arraybackslash}X|}}
+\hline
+\rowcolor[HTML]{EFEFEF} 
+Time (IST) & Monday & Tuesday & Wednesday & Thursday & Friday & Saturday & Sunday \\ \hline
+
+06:00 -- 07:00 & \cellcolor[HTML]{D1E8FF}Yoga + Meditation & \cellcolor[HTML]{D1E8FF}Morning Walk & \cellcolor[HTML]{D1E8FF}Yoga + Meditation & \cellcolor[HTML]{D1E8FF}Morning Walk & \cellcolor[HTML]{D1E8FF}Yoga + Meditation & \cellcolor[HTML]{D1E8FF}Gym / Exercise & \cellcolor[HTML]{D1E8FF}Rest \& Stretch \\ \hline
+
+07:00 -- 08:30 & \cellcolor[HTML]{E2EFDA}\textbf{Coding: DSA} & \cellcolor[HTML]{E2EFDA}\textbf{Coding: Logic} & \cellcolor[HTML]{E2EFDA}\textbf{Coding: DSA} & \cellcolor[HTML]{E2EFDA}\textbf{Coding: Logic} & \cellcolor[HTML]{E2EFDA}\textbf{Coding: DSA} & \cellcolor[HTML]{D9D9D9}Extra Sleep & \cellcolor[HTML]{E2EFDA}Side Project \\ \hline
+
+08:30 -- 09:00 & \cellcolor[HTML]{FFF2CC}Breakfast & \cellcolor[HTML]{FFF2CC}Breakfast & \cellcolor[HTML]{FFF2CC}Breakfast & \cellcolor[HTML]{FFF2CC}Breakfast & \cellcolor[HTML]{FFF2CC}Breakfast & \cellcolor[HTML]{FFF2CC}Breakfast & \cellcolor[HTML]{FFF2CC}Breakfast \\ \hline
+
+09:00 -- 16:00 & \cellcolor[HTML]{EFEFEF}College: \textbf{Maths / AI} & \cellcolor[HTML]{EFEFEF}College: \textbf{Mobile App} & \cellcolor[HTML]{EFEFEF}College: \textbf{Agile / AI} & \cellcolor[HTML]{EFEFEF}College: \textbf{Maths / App} & \cellcolor[HTML]{EFEFEF}College: \textbf{Agile Dev} & \cellcolor[HTML]{E2EFDA}Deep Project Work & \cellcolor[HTML]{FCE4D6}Relaxation (Music) \\ \hline
+
+16:30 -- 18:30 & \cellcolor[HTML]{DEEBF7}\textbf{Internship Work} & \cellcolor[HTML]{DEEBF7}\textbf{Internship Work} & \cellcolor[HTML]{DEEBF7}\textbf{Internship Work} & \cellcolor[HTML]{DEEBF7}\textbf{Internship Work} & \cellcolor[HTML]{DEEBF7}\textbf{Internship Work} & \cellcolor[HTML]{DEEBF7}Internship Repo & \cellcolor[HTML]{FFF2CC}Family Time \\ \hline
+
+18:30 -- 19:30 & \cellcolor[HTML]{F2F2F2}\textbf{Business Ops} & \cellcolor[HTML]{F2F2F2}\textbf{Business Ops} & \cellcolor[HTML]{F2F2F2}\textbf{Business Ops} & \cellcolor[HTML]{F2F2F2}\textbf{Business Ops} & \cellcolor[HTML]{F2F2F2}\textbf{Business Ops} & \cellcolor[HTML]{F2F2F2}Biz Strategy & \cellcolor[HTML]{F2F2F2}Biz Audit \\ \hline
+
+20:00 -- 21:00 & \cellcolor[HTML]{FFF2CC}Dinner & \cellcolor[HTML]{FFF2CC}Dinner & \cellcolor[HTML]{FFF2CC}Dinner & \cellcolor[HTML]{FFF2CC}Dinner & \cellcolor[HTML]{FFF2CC}Dinner & \cellcolor[HTML]{FFF2CC}Dinner & \cellcolor[HTML]{FFF2CC}Dinner \\ \hline
+
+21:00 -- 22:00 & \cellcolor[HTML]{F8CBAD}Digital Limit & \cellcolor[HTML]{F8CBAD}Digital Limit & \cellcolor[HTML]{F8CBAD}Digital Limit & \cellcolor[HTML]{F8CBAD}Digital Limit & \cellcolor[HTML]{F8CBAD}Digital Limit & \cellcolor[HTML]{FCE4D6}Relaxation & \cellcolor[HTML]{E1D5E7}\textbf{Plan Week} \\ \hline
+
+22:00 -- 06:00 & \cellcolor[HTML]{D9D9D9}Sleep & \cellcolor[HTML]{D9D9D9}Sleep & \cellcolor[HTML]{D9D9D9}Sleep & \cellcolor[HTML]{D9D9D9}Sleep & \cellcolor[HTML]{D9D9D9}Sleep & \cellcolor[HTML]{D9D9D9}Sleep & \cellcolor[HTML]{D9D9D9}Sleep \\ \hline
+\end{tabularx}
+
+\vspace{0.4cm}
+\noindent \textbf{Weekly Goals \& Habits:}
+\begin{itemize}
+    \item \textbf{Positive Habit:} Nightly Review and Planning session on Sundays at 21:00.
+    \item \textbf{Digital Usage:} Strict limit from 21:00 daily to ensure 8 hours of sleep hygiene.
+    \item \textbf{Relaxation:} Meditation integrated into morning yoga and specific evening slots for music/prayer.
+\end{itemize}
+
+\end{document}
